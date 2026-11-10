@@ -7,7 +7,7 @@
 - Email: nguyenhainam08012004@gmail.com
 - Lớp: K5 - Level 2B (L2B)
 - Link repo bài làm: [https://github.com/hainam08012004/K5-L2A-Day02-Nguyen-Hai-Nam-2A202603309-ObjectDetection](https://github.com/hainam08012004/K5-L2A-Day02-Nguyen-Hai-Nam-2A202603309-ObjectDetection)
-- Link Colab đã chạy: [Dán link chia sẻ Colab của bạn vào đây]
+- Link Colab đã chạy: [https://colab.research.google.com/github/hainam08012004/K5-L2A-Day02-Nguyen-Hai-Nam-2A202603309-ObjectDetection/blob/main/notebooks/day2_annotation_to_yolo.ipynb](https://colab.research.google.com/github/hainam08012004/K5-L2A-Day02-Nguyen-Hai-Nam-2A202603309-ObjectDetection/blob/main/notebooks/day2_annotation_to_yolo.ipynb)
 
 ---
 
